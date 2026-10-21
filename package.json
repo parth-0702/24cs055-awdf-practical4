@@ -1,0 +1,23 @@
+{
+  "name": "task-manager-api-24cs055",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js and Express for Practical 4 (ITUE301)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test-api.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "crud",
+    "middleware",
+    "task-manager"
+  ],
+  "author": "Parth Oza (24CS055)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
